@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 12,
     "description": [{"text":"Craft Saplings into Sticks.","color":"gray"},{"text":"\nBy Kmek","color":"blue"}]
   }
 }
